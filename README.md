@@ -1,7 +1,7 @@
 # world-heritage
 
 Free open public domain world heritage sites data
-(e.g. monument, building, city, mountain, lake, island, desert, forest, etc.)
+(e.g. monuments, buildings, cities, mountains, lakes, islands, deserts, forests, etc.)
 
 
 
